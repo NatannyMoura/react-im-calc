@@ -1,4 +1,4 @@
-# Calculadora básica de iMC
+# Calculadora básica de IMC
 
 Projeto criado em react + typescript
 
